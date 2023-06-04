@@ -32,7 +32,7 @@ if( n % 2 === 0 ) {
 
 // 문자열 겹쳐쓰기
 // 문자열 my_string의 인덱스 s부터 overwrite_string의 길이만큼을 문자열 overwrite_string으로 바꾼 문자열을 return
-// my_string = "He11oWor1d" , overwrite_string = "lloWorl" , s = 2, result = "HelloWorld"
+// my_string = "He11oWor1d" / overwrite_string = "lloWorl" / s = 2 / result = "HelloWorld"
 
 const my_string = "He11oWor1d";
 const overwrite_string = "lloWorl";
